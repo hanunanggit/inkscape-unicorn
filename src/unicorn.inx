@@ -29,7 +29,7 @@ When plotting, ReplicatorG will pause to ask if registration was successful. If 
 
 Some examples:
 - X = 0, Y = 0 if it starts centered under the pen.
-- X = 250, Y = 250 if it starts in the front-left corner of a Cupcake CNC.
+- X = 200, Y = 200 if it starts in the front-left corner of a Cupcake CNC.
 
 Note: Double-check the orientation of your axes when changing these values!</_param>
       <param name="x-home" type="float" min="-200.00" max="200.00" _gui-text="Pen starts at X value:">0.00</param>
